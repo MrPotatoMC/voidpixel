@@ -9,7 +9,7 @@ public class pixelModLoader {
 	public pixelModLoader(voidpixel instance) {
 		mods.add("Test mod", 1.0, "Cadiducho");
 		voidpixel.Pixel();
-		throw new Exception("API JAJAJAJAJAJAJAJAJAJAJAJAJAJAJA NO");
+		throw new Exception("API Jajajajajajajajajajajaja NO");
 	}
 	
 }
